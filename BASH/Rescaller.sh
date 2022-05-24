@@ -1,3 +1,4 @@
+ll
 #!/bin/bash
 BOLD="\e[1m"
 FAIN="\e[2m"
